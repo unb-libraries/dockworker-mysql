@@ -3,7 +3,7 @@
   "description": "Services for wiring up MySQL containers for development",
   "type": "library",
   "require": {
-    "unb-libraries/dockworker": "~3"
+    "unb-libraries/dockworker": "~4"
   },
   "license": "MIT",
   "authors": [
