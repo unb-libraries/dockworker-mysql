@@ -24,6 +24,7 @@ class MysqlDeployCommands extends DockworkerDaemonCommands
             array_values(
                 [
                     'Warning, not an error.' => 'as time zone. Skipping it.',
+                    'Not a critial error.' => '[Note] Got an error reading communication packets',
                 ]
             ),
         ];
